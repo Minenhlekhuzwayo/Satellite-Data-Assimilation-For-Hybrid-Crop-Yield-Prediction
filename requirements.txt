@@ -4,3 +4,6 @@ pandas
 numpy
 aquacrop
 matplotlib
+train_test_split
+RandomForestRegressor
+sklearn
